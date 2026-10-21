@@ -297,4 +297,4 @@ Before merging by **November 1, 2026**, tag your assigned peer reviewer:
 - **Reviewer Checklist:**
   - [ ] Zero `var` keywords in JS / zero exposed mutable fields where `private`/`protected` belongs in C#.
   - [ ] Code is placed strictly inside [`submissions/Module_01/<Track>/<your-github-handle>/`](./submissions/Module_01/README.md) and runs cleanly from a fresh `git clone` with a `README.md` explaining how to run it in 2 commands.
-- **Submit Your Pull Request Here:** Open your PR into [`submissions/Module_01/`](./submissions/Module_01/README.md) following the step-by-step instructions and PR template in the **[BGSC PR & Submission Guide](./PR_And_Submission_Guide.md)**, and log your PR URL in the Official Submission GForm.
+- **Submit Your Pull Request Here:** Open your PR into [`submissions/Module_01/`](./submissions/Module_01/README.md) following the step-by-step instructions and PR template in the **[BGSC PR & Submission Guide](./PR_And_Submission_Guide.md)**, and log your PR URL in the [GForm Submission Link](https://forms.gle/huEdmBvN6xeAx2aLA).

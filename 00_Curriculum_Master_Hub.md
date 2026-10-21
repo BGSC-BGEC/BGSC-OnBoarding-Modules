@@ -79,7 +79,7 @@ For every single module, submissions are tracked through GitHub Pull Requests fo
 
 - **Step-by-Step PR Tutorial & Template:** Read the **[BGSC Pull Request and Module Submission Guide](./PR_And_Submission_Guide.md)** for terminal commands, folder rules, and a copy-pasteable PR description template.
 - **Submission Folder Structure:** Place your deliverable strictly inside `submissions/Module_0X/<Track>/<your-github-handle>/` (see [`submissions/`](./submissions/README.md)) so your PR never conflicts with other members or modifies the root GitHub Pages curriculum files.
-- **Submission Portal (GitHub PRs + GForm):** Open a Pull Request from your feature branch (`feat/module-XX-<your-handle>`) into `main` of this repository and link your PR URL inside the Official Submission GForm.
+- **Submission Portal (GitHub PRs + GForm):** Open a Pull Request from your feature branch (`feat/module-XX-<your-handle>`) into `main` of this repository and link your PR URL inside the [Official Submission GForm](https://forms.gle/WDUghqipgjs8TDDc7).
 - **Deadline 1 Tag:** Open your PR as a Draft/WIP PR titled `[WIP][Module X - D1] <Track>: <Your Name>` by **23:59 IST on Day 4**.
 - **Deadline 2 Tag:** Mark your PR Ready for Review, attach your **Cross-Domain Peer Auditor**, and update the title to `[READY][Module X - D2] <Track>: <Your Name>` by **23:59 IST on Day 9**.
 

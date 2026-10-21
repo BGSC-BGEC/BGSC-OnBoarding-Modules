@@ -2,7 +2,7 @@
 
 > **[Back to Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** | **[Module 0: Git and GitHub Revision Guide](./Module_00_Git_And_GitHub_Revision_Guide.md)** | **[Browse Submissions Directory](./submissions/README.md)**
 
-Welcome to the official **BGSC Submission and Pull Request Protocol**. Every module in the [BGSC Technical Onboarding Hub](./00_Curriculum_Master_Hub.md) is submitted, peer-audited, and verified through **GitHub Pull Requests (PRs)** directly inside this repository, followed by logging your PR link in the **Official Submission GForm**.
+Welcome to the official **BGSC Submission and Pull Request Protocol**. Every module in the [BGSC Technical Onboarding Hub](./00_Curriculum_Master_Hub.md) is submitted, peer-audited, and verified through **GitHub Pull Requests (PRs)** directly inside this repository, followed by logging your PR link in the **[Official Submission GForm](https://forms.gle/WDUghqipgjs8TDDc7)**.
 
 If you ever forget a Git command while following this guide, keep [Module 0: The Ultimate Git, CLI, SSH and Merge Conflict Revision Guide](./Module_00_Git_And_GitHub_Revision_Guide.md) open in another tab.
 
@@ -33,7 +33,7 @@ submissions/Module_0X/<Track>/<your-github-handle>/
 Here is how the repository is organized for all modules (`Module_01` to `Module_09`):
 
 ```text
-bgsc-onboarding-hub/                               <-- Repo Root (Published via GitHub Pages)
+BGSC-OnBoarding-Modules/                               <-- Repo Root (Published via GitHub Pages)
 |-- README.md / 00_Curriculum_Master_Hub.md        <-- Master Timetable & Rules Hub
 |-- PR_And_Submission_Guide.md                     <-- This Submission Guide
 |-- Module_00_Git_And_GitHub_Revision_Guide.md     <-- Week 1 Git & CLI Revision
@@ -77,7 +77,7 @@ Always start from an up-to-date `main` branch and create a dedicated feature bra
 
 ```bash
 # 1. Move into your cloned repo folder
-cd bgsc-onboarding-hub
+cd BGSC-OnBoarding-Modules
 
 # 2. Switch to main and pull the latest curriculum and folder updates
 git switch main
@@ -185,7 +185,7 @@ git push
 ```
 
    - Tag your **Cross-Domain Peer Auditor** in the **Reviewers** sidebar (or mention `@peer-handle` in a comment) so they can run the module's **Reviewer Checklist** on your PR.
-3. **Log Your Submission in the GForm:** Copy the URL of your Pull Request (for example, `https://github.com/<org>/<repo>/pull/42`) and submit it in the **Official BGSC Module Submission GForm** before **23:59 IST on the Deadline 2 date**.
+3. **Log Your Submission in the GForm:** Copy the URL of your Pull Request (for example, `https://github.com/BGSC-BGEC/BGSC-OnBoarding-Modules/pull/42`) and submit it in the **[Official BGSC Module Submission GForm](https://forms.gle/WDUghqipgjs8TDDc7)** before **23:59 IST on the Deadline 2 date**.
 
 ---
 
