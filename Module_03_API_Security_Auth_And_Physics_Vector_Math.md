@@ -1,10 +1,10 @@
 # Module 3: Locks, Bouncers & Gravity - API Controllers, Manual Security, Auth & 3D Physics
 
-> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** | **[PR & Submission Guide](./PR_And_Submission_Guide.md)** | **[Module 3 Submissions (`submissions/Module_03/`)](./submissions/Module_03/README.md)**
+> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** / **[PR & Submission Guide](./PR_And_Submission_Guide.md)** / **[Module 3 Submissions (`submissions/Module_03/`)](./submissions/Module_03/README.md)**
 
-- **Sprint Dates:** Nov 05 – Nov 10, 2026 | **Estimated Workload:** 4 to 5 Hours Max
-- **Deadline 1 (Soft Checkpoint):** Nov 10, 2026 | **Deadline 2 (Final Verification):** Nov 13, 2026
-- **Prerequisite:** [Module 2 (PostgreSQL Schemas / Unity MonoBehaviour)](./Module_02_Postgres_Schemas_And_Unity_Engine_Architecture.md) | **Track Options:** Heavy Load or Maintenance Load
+- **Sprint Dates:** Nov 05 – Nov 10, 2026 / **Estimated Workload:** 4 to 5 Hours Max
+- **Deadline 1 (Soft Checkpoint):** Nov 10, 2026 / **Deadline 2 (Final Verification):** Nov 13, 2026
+- **Prerequisite:** [Module 2 (PostgreSQL Schemas / Unity MonoBehaviour)](./Module_02_Postgres_Schemas_And_Unity_Engine_Architecture.md) / **Track Options:** Heavy Load or Maintenance Load
 
 ## Previously on BGSC Onboarding...
 

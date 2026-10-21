@@ -1,10 +1,10 @@
 # Module 7: Going Mobile & Going Multiplayer - React Native Architecture & Unity Netcode Foundations
 
-> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** | **[PR & Submission Guide](./PR_And_Submission_Guide.md)** | **[Module 7 Submissions (`submissions/Module_07/`)](./submissions/Module_07/README.md)**
+> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** / **[PR & Submission Guide](./PR_And_Submission_Guide.md)** / **[Module 7 Submissions (`submissions/Module_07/`)](./submissions/Module_07/README.md)**
 
-- **Sprint Dates:** Jan 06 – Jan 11, 2027 | **Estimated Workload:** 4 to 5 Hours Max
-- **Deadline 1 (Soft Checkpoint):** Jan 11, 2027 | **Deadline 2 (Final Verification):** Jan 14, 2027
-- **Prerequisite:** [Modules 1–6 (Full-Stack Web / Single-Player Unity Loop)](./Module_06_FullStack_CRUD_And_Game_Loop_Canvas_UI.md) | **Track Options:** Heavy Load or Maintenance Load
+- **Sprint Dates:** Jan 06 – Jan 11, 2027 / **Estimated Workload:** 4 to 5 Hours Max
+- **Deadline 1 (Soft Checkpoint):** Jan 11, 2027 / **Deadline 2 (Final Verification):** Jan 14, 2027
+- **Prerequisite:** [Modules 1–6 (Full-Stack Web / Single-Player Unity Loop)](./Module_06_FullStack_CRUD_And_Game_Loop_Canvas_UI.md) / **Track Options:** Heavy Load or Maintenance Load
 
 ## Previously on BGSC Onboarding...
 

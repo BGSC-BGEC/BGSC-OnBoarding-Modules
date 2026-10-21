@@ -1,10 +1,10 @@
 # Module 8: Polyglot Databases, Event Buses & Time Travel - MongoDB, Kafka/RabbitMQ, Backend Algorithms & Lag Compensation
 
-> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** | **[PR & Submission Guide](./PR_And_Submission_Guide.md)** | **[Module 8 Submissions (`submissions/Module_08/`)](./submissions/Module_08/README.md)**
+> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** / **[PR & Submission Guide](./PR_And_Submission_Guide.md)** / **[Module 8 Submissions (`submissions/Module_08/`)](./submissions/Module_08/README.md)**
 
-- **Sprint Dates:** Jan 12 – Jan 17, 2027 | **Estimated Workload:** 4 to 5 Hours Max
-- **Deadline 1 (Soft Checkpoint):** Jan 17, 2027 | **Deadline 2 (Final Verification):** Jan 20, 2027
-- **Prerequisite:** [Module 7 (React Native / Multiplayer Netcode)](./Module_07_React_Native_Mobile_And_Multiplayer_Netcode.md) | **Track Options:** Heavy Load or Maintenance Load
+- **Sprint Dates:** Jan 12 – Jan 17, 2027 / **Estimated Workload:** 4 to 5 Hours Max
+- **Deadline 1 (Soft Checkpoint):** Jan 17, 2027 / **Deadline 2 (Final Verification):** Jan 20, 2027
+- **Prerequisite:** [Module 7 (React Native / Multiplayer Netcode)](./Module_07_React_Native_Mobile_And_Multiplayer_Netcode.md) / **Track Options:** Heavy Load or Maintenance Load
 
 ## Previously on BGSC Onboarding...
 

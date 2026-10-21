@@ -1,10 +1,10 @@
 # Module 6: Closing the Loop - Full-Stack CRUD Wiring, Canvas HUDs, Game Loops & Capstone Handover
 
-> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** | **[PR & Submission Guide](./PR_And_Submission_Guide.md)** | **[Module 6 Submissions (`submissions/Module_06/`)](./submissions/Module_06/README.md)**
+> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** / **[PR & Submission Guide](./PR_And_Submission_Guide.md)** / **[Module 6 Submissions (`submissions/Module_06/`)](./submissions/Module_06/README.md)**
 
-- **Sprint Dates:** Nov 23 – Nov 28, 2026 | **Estimated Workload:** 4 to 5 Hours Max
-- **Deadline 1 (Soft Checkpoint):** Nov 28, 2026 | **Deadline 2 (Final Verification):** Dec 01, 2026
-- **Prerequisite:** [Modules 1–5](./00_Curriculum_Master_Hub.md) | **Track Options:** Heavy Load or Maintenance Load
+- **Sprint Dates:** Nov 23 – Nov 28, 2026 / **Estimated Workload:** 4 to 5 Hours Max
+- **Deadline 1 (Soft Checkpoint):** Nov 28, 2026 / **Deadline 2 (Final Verification):** Dec 01, 2026
+- **Prerequisite:** [Modules 1–5](./00_Curriculum_Master_Hub.md) / **Track Options:** Heavy Load or Maintenance Load
 
 ## Previously on BGSC Onboarding...
 

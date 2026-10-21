@@ -1,8 +1,8 @@
 # Module 0: Saving Your Sanity - The Ultimate Git, CLI, SSH & Merge Conflict Revision Guide
 
-> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** | **[PR & Submission Guide](./PR_And_Submission_Guide.md)** | **[Next: Module 1](./Module_01_Zero_To_Code_JS_Express_And_Pure_CSharp.md)**
+> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** / **[PR & Submission Guide](./PR_And_Submission_Guide.md)** / **[Next: Module 1](./Module_01_Zero_To_Code_JS_Express_And_Pure_CSharp.md)**
 
-- **Estimated Workload:** 2 to 3 Hours Max | **Prerequisite:** Zero Coding Experience Required (Just a working keyboard and mild curiosity)
+- **Estimated Workload:** 2 to 3 Hours Max / **Prerequisite:** Zero Coding Experience Required (Just a working keyboard and mild curiosity)
 - **Target Audience:** Anyone who has ever named a folder `Final_Project_v2_ACTUALLY_FINAL_3AM_PLEASE_WORK`
 
 ---

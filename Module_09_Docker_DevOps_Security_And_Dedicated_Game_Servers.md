@@ -1,10 +1,10 @@
 # Module 9: Shipping to the Real World - Docker, DevOps CI/CD, API Hardening & Dedicated Game Servers
 
-> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** | **[PR & Submission Guide](./PR_And_Submission_Guide.md)** | **[Module 9 Submissions (`submissions/Module_09/`)](./submissions/Module_09/README.md)**
+> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** / **[PR & Submission Guide](./PR_And_Submission_Guide.md)** / **[Module 9 Submissions (`submissions/Module_09/`)](./submissions/Module_09/README.md)**
 
-- **Sprint Dates:** Jan 18 – Jan 23, 2027 | **Estimated Workload:** 4 to 5 Hours Max
-- **Deadline 1 (Soft Checkpoint):** Jan 23, 2027 | **Deadline 2 (Final Verification):** Jan 26, 2027
-- **Prerequisite:** [Modules 1–8](./00_Curriculum_Master_Hub.md) | **Track Options:** Heavy Load or Maintenance Load
+- **Sprint Dates:** Jan 18 – Jan 23, 2027 / **Estimated Workload:** 4 to 5 Hours Max
+- **Deadline 1 (Soft Checkpoint):** Jan 23, 2027 / **Deadline 2 (Final Verification):** Jan 26, 2027
+- **Prerequisite:** [Modules 1–8](./00_Curriculum_Master_Hub.md) / **Track Options:** Heavy Load or Maintenance Load
 
 ## Previously on BGSC Onboarding...
 

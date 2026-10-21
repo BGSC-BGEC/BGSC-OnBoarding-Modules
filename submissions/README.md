@@ -1,6 +1,6 @@
 # BGSC Module Submissions Directory (`submissions/`)
 
-> **[Back to Curriculum Master Hub](../00_Curriculum_Master_Hub.md)** | **[Read the Full PR and Submission Guide](../PR_And_Submission_Guide.md)**
+> **[Back to Curriculum Master Hub](../00_Curriculum_Master_Hub.md)** / **[Read the Full PR and Submission Guide](../PR_And_Submission_Guide.md)**
 
 All member submissions for **Modules 1 through 9** live inside this directory.
 

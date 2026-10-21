@@ -1,6 +1,6 @@
 # BGSC Pull Request and Module Submission Guide
 
-> **[Back to Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** | **[Module 0: Git and GitHub Revision Guide](./Module_00_Git_And_GitHub_Revision_Guide.md)** | **[Browse Submissions Directory](./submissions/README.md)**
+> **[Back to Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** / **[Module 0: Git and GitHub Revision Guide](./Module_00_Git_And_GitHub_Revision_Guide.md)** / **[Browse Submissions Directory](./submissions/README.md)**
 
 Welcome to the official **BGSC Submission and Pull Request Protocol**. Every module in the [BGSC Technical Onboarding Hub](./00_Curriculum_Master_Hub.md) is submitted, peer-audited, and verified through **GitHub Pull Requests (PRs)** directly inside this repository, followed by logging your PR link in the **[Official Submission GForm](https://forms.gle/WDUghqipgjs8TDDc7)**.
 

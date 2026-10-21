@@ -1,10 +1,10 @@
 # Module 4: Faces, Lasers & AI Co-Pilots - React Fundamentals, AI-Assisted Frontend, Monitoring & Raycasting
 
-> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** | **[PR & Submission Guide](./PR_And_Submission_Guide.md)** | **[Module 4 Submissions (`submissions/Module_04/`)](./submissions/Module_04/README.md)**
+> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** / **[PR & Submission Guide](./PR_And_Submission_Guide.md)** / **[Module 4 Submissions (`submissions/Module_04/`)](./submissions/Module_04/README.md)**
 
-- **Sprint Dates:** Nov 11 – Nov 16, 2026 | **Estimated Workload:** 3 to 4 Hours Max
-- **Deadline 1 (Soft Checkpoint):** Nov 16, 2026 | **Deadline 2 (Final Verification):** Nov 19, 2026
-- **Prerequisite:** [Module 3 (Auth API / Physics Controller)](./Module_03_API_Security_Auth_And_Physics_Vector_Math.md) | **Track Options:** Heavy Load or Maintenance Load
+- **Sprint Dates:** Nov 11 – Nov 16, 2026 / **Estimated Workload:** 3 to 4 Hours Max
+- **Deadline 1 (Soft Checkpoint):** Nov 16, 2026 / **Deadline 2 (Final Verification):** Nov 19, 2026
+- **Prerequisite:** [Module 3 (Auth API / Physics Controller)](./Module_03_API_Security_Auth_And_Physics_Vector_Math.md) / **Track Options:** Heavy Load or Maintenance Load
 
 ## Previously on BGSC Onboarding...
 

@@ -1,10 +1,10 @@
 # Module 5: Cloning Factories & Living Data - React State/Fetching, Mock Deadlock Breakers, Prefabs & ScriptableObjects
 
-> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** | **[PR & Submission Guide](./PR_And_Submission_Guide.md)** | **[Module 5 Submissions (`submissions/Module_05/`)](./submissions/Module_05/README.md)**
+> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** / **[PR & Submission Guide](./PR_And_Submission_Guide.md)** / **[Module 5 Submissions (`submissions/Module_05/`)](./submissions/Module_05/README.md)**
 
-- **Sprint Dates:** Nov 17 – Nov 22, 2026 | **Estimated Workload:** 4 to 5 Hours Max
-- **Deadline 1 (Soft Checkpoint):** Nov 22, 2026 | **Deadline 2 (Final Verification):** Nov 25, 2026
-- **Prerequisite:** [Module 4 (React Components / Input & Raycasting)](./Module_04_React_AI_Frontend_And_Input_Raycasting.md) | **Track Options:** Heavy Load or Maintenance Load
+- **Sprint Dates:** Nov 17 – Nov 22, 2026 / **Estimated Workload:** 4 to 5 Hours Max
+- **Deadline 1 (Soft Checkpoint):** Nov 22, 2026 / **Deadline 2 (Final Verification):** Nov 25, 2026
+- **Prerequisite:** [Module 4 (React Components / Input & Raycasting)](./Module_04_React_AI_Frontend_And_Input_Raycasting.md) / **Track Options:** Heavy Load or Maintenance Load
 
 ## Previously on BGSC Onboarding...
 

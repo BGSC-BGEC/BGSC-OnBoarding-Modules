@@ -1,11 +1,11 @@
 # Module 2: Giving Your Code a Memory & a Body - PostgreSQL Schemas & Unity Engine Architecture
 
-> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** | **[PR & Submission Guide](./PR_And_Submission_Guide.md)** | **[Module 2 Submissions (`submissions/Module_02/`)](./submissions/Module_02/README.md)**
+> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** / **[PR & Submission Guide](./PR_And_Submission_Guide.md)** / **[Module 2 Submissions (`submissions/Module_02/`)](./submissions/Module_02/README.md)**
 
-- **Sprint Dates:** Oct 30 – Nov 04, 2026 | **Estimated Workload:** 4 to 5 Hours Max
-- **Deadline 1 (Soft Checkpoint):** Nov 04, 2026 | **Deadline 2 (Final Verification):** Nov 07, 2026
+- **Sprint Dates:** Oct 30 – Nov 04, 2026 / **Estimated Workload:** 4 to 5 Hours Max
+- **Deadline 1 (Soft Checkpoint):** Nov 04, 2026 / **Deadline 2 (Final Verification):** Nov 07, 2026
 
-- **Prerequisite:** [Module 1 (Express Routing / Pure C# OOP)](./Module_01_Zero_To_Code_JS_Express_And_Pure_CSharp.md) | **Track Options:** Heavy Load or Maintenance Load
+- **Prerequisite:** [Module 1 (Express Routing / Pure C# OOP)](./Module_01_Zero_To_Code_JS_Express_And_Pure_CSharp.md) / **Track Options:** Heavy Load or Maintenance Load
 
 ## Previously on BGSC Onboarding...
 

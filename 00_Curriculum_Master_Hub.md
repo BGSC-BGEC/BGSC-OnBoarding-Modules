@@ -1,6 +1,6 @@
 # BGSC Technical Onboarding Hub (2026-2027)
 
-> **[PR and Submission Guide](./PR_And_Submission_Guide.md)** | **[Module 0: Git and GitHub Revision Guide](./Module_00_Git_And_GitHub_Revision_Guide.md)** | **[Module Submissions Directory (`submissions/`)](./submissions/README.md)**
+> **[PR and Submission Guide](./PR_And_Submission_Guide.md)** / **[Module 0: Git and GitHub Revision Guide](./Module_00_Git_And_GitHub_Revision_Guide.md)** / **[Module Submissions Directory (`submissions/`)](./submissions/README.md)**
 
 Welcome to the official GitHub Pages Curriculum Hub for **Application Development (Web, Mobile, Backend, DevOps & AI)** and **Game Development (Unity, C#, Game Design, Multiplayer & Dedicated Servers)**, built upon the [Project Team & Game Dev Onboarding Framework](https://drive.google.com/open?id=1lLzWQ_4Z_VB8-pOG_xtUY-4UD-if9mvNM_35hKFpIuA).
 

@@ -1,10 +1,10 @@
 title: BGSC Technical Onboarding Hub (2026-2027)
 description: Official Curriculum and Submission Portal for BGSC Application Development and Game Development
-theme: jekyll-theme-primer
 
 plugins:
   - jekyll-relative-links
   - jekyll-readme-index
+  - jekyll-default-layout
 
 relative_links:
   enabled: true
@@ -13,3 +13,9 @@ relative_links:
 readme_index:
   enabled: true
   remove_originals: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

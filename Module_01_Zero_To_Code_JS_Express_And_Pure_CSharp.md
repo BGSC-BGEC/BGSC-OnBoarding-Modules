@@ -1,11 +1,11 @@
 # Module 1: Teaching Rocks to Think : Core Logic, Express Servers & Pure C# OOP
 
-> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** | **[PR & Submission Guide](./PR_And_Submission_Guide.md)** | **[Module 1 Submissions (`submissions/Module_01/`)](./submissions/Module_01/README.md)**
+> **[Curriculum Master Hub](./00_Curriculum_Master_Hub.md)** / **[PR & Submission Guide](./PR_And_Submission_Guide.md)** / **[Module 1 Submissions (`submissions/Module_01/`)](./submissions/Module_01/README.md)**
 
-- **Sprint Dates:** Oct 21 – Oct 29, 2026 | **Estimated Workload:** 3 to 4 Hours Max
-- **Deadline 1 (Soft Checkpoint):** Oct 29, 2026 | **Deadline 2 (Final Verification):** Nov 01, 2026
+- **Sprint Dates:** Oct 21 – Oct 29, 2026 / **Estimated Workload:** 3 to 4 Hours Max
+- **Deadline 1 (Soft Checkpoint):** Oct 29, 2026 / **Deadline 2 (Final Verification):** Nov 01, 2026
 
-- **Prerequisite:** [Week 1 Git Workshop / Module 0](./Module_00_Git_And_GitHub_Revision_Guide.md) | **Track Options:** Heavy Load (Full Spec) or Maintenance Load (Core Subset)
+- **Prerequisite:** [Week 1 Git Workshop / Module 0](./Module_00_Git_And_GitHub_Revision_Guide.md) / **Track Options:** Heavy Load (Full Spec) or Maintenance Load (Core Subset)
 
 ## Previously on BGSC Onboarding...
 

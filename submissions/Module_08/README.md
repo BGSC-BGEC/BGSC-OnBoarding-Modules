@@ -1,6 +1,6 @@
 # Module 8 Submissions (`submissions/Module_08/`)
 
-> **[Curriculum Master Hub](../../00_Curriculum_Master_Hub.md)** | **[PR and Submission Guide](../../PR_And_Submission_Guide.md)** | **[All Submissions](../README.md)**
+> **[Curriculum Master Hub](../../00_Curriculum_Master_Hub.md)** / **[PR and Submission Guide](../../PR_And_Submission_Guide.md)** / **[All Submissions](../README.md)**
 
 Place your **Module 8** deliverable inside your track subfolder using your GitHub handle:
 
