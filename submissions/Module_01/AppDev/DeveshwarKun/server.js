@@ -1,28 +1,67 @@
-// server.js (using ES6 Modules: set "type": "module" in package.json)
 import express from "express";
 
 const app = express();
-app.use(express.json()); // Middleware that lets Express read JSON request bodies!
+app.use(express.json());
 
-const matches = [{ id: 1, game: "Valorant", teamA: "Bitsians", teamB: "Titans", score: "13-9" }
+let matches = [
+  { id: 1, game: "Valorant", teamA: "Bitsians", teamB: "Titans", score: "13-9" }
 ];
 
-// 1. GET endpoint with async handler and array filtering
+let nextId = 2;
+
+// GET: Retrieve and filter matches
 app.get("/api/matches", async (req, res) => {
-  const { game } = req.query;
-  const result = game ? matches.filter(m => m.game.toLowerCase() === game.toLowerCase()) : matches;
-  res.status(200).json({ count: result.length, data: result });
-});
+  try {
+    const data = req.query.game
+      ? matches.filter(m => m.game.toLowerCase() === req.query.game.toLowerCase())
+      : matches;
 
-// 2. POST endpoint to add a match
-app.post("/api/matches", async (req, res) => {
-  const { game, teamA, teamB, score } = req.body;
-  if (!game || !teamA || !teamB) {
-    return res.status(400).json({ error: "Missing required match fields!" });
+    return res.status(200).json(data);
+  } catch (error) {
+    return res.status(400).json({ error: error.message });
   }
-  const newMatch = { id: matches.length + 1, game, teamA, teamB, score: score || "0-0" };
-  matches.push(newMatch);
-  res.status(201).json({ message: "Match created!", data: newMatch });
 });
 
-app.listen(3000, () => console.log("Server live on http://localhost:3000"));
+// POST: Create a match
+app.post("/api/matches", async (req, res) => {
+  try {
+    const { game, teamA, teamB, score } = req.body;
+
+    if (!game || !teamA || !teamB) {
+      return res.status(400).json({ error: "Missing required fields" });
+    }
+
+    const match = { id: nextId++, game, teamA, teamB, score: score || "0-0" };
+    matches.push(match);
+
+    return res.status(201).json(match);
+  } catch (error) {
+    return res.status(400).json({ error: error.message });
+  }
+});
+
+// DELETE: Delete a match
+app.delete("/api/matches/:id", async (req, res) => {
+  try {
+    const id = Number(req.params.id);
+    const index = matches.findIndex(m => m.id === id);
+
+    if (index === -1) {
+      return res.status(404).json({ error: "Match not found" });
+    }
+
+    const deleted = matches.splice(index, 1)[0];
+    return res.status(200).json(deleted);
+  } catch (error) {
+    return res.status(400).json({ error: error.message });
+  }
+});
+
+// Demonstrate map() and reduce()
+const names = matches.map(m => m.teamA);
+const total = matches.reduce((sum, m) => sum + 1, 0);
+
+console.log("Teams:", names);
+console.log("Total matches:", total);
+
+app.listen(3000, () => console.log("Server running on port 3000"));
