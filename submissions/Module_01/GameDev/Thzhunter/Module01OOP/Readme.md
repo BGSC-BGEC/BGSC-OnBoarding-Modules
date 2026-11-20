@@ -1,0 +1,1 @@
+afterdownloading and opening file run dotnet run on terminal.
